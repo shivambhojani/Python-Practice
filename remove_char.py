@@ -1,3 +1,5 @@
+# Write a method which will remove any given character from a String?
+
 def remove(str, char):
     new_str = ""
     for i in range(0, len(str)):

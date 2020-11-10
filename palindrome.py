@@ -1,3 +1,5 @@
+# Write code to check a String is palindrome or not?
+
 def isPalindrome(x):
     x = list(x)
     l = len(x)
